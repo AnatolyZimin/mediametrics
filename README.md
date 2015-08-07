@@ -1,6 +1,8 @@
-# mediametrics
+# mediametrics console client
 
+![alt tag](logo/logo2.png)
 ![alt tag](logo/logo1.png)
+
 
 ```
 Консольный клиент для **http://mediametrics.ru**
