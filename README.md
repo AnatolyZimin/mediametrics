@@ -1,4 +1,4 @@
-# mediametrics console client
+# mediametrics terminal client
 
 ![alt tag](logo/logo2.png)
 ![alt tag](logo/logo1.png)
