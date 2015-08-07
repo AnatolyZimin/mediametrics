@@ -1,5 +1,7 @@
 # mediametrics
 
+![alt tag](logo/logo2.png)
+
 Консольный клиент для **http://mediametrics.ru**
 
 В первую очередь порталу надо сделать публичный Rest API
