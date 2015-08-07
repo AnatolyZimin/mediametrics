@@ -80,5 +80,5 @@ Categories:        	news, sport, tech, People,
 GNU General Public License, version 2.0 (GPL-2.0)
 
 ## Logo
-!(logo/logo1.png)
+![alt tag](logo/logo1.png)
 
