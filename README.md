@@ -80,5 +80,5 @@ Categories:        	news, sport, tech, People,
 GNU General Public License, version 2.0 (GPL-2.0)
 
 ## Logo
-![alt text](logo/logo1.png "Description goes here")
+!(logo/logo1.png)
 
