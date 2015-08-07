@@ -1,6 +1,5 @@
 # mediametrics
 
-![alt tag](logo/logo2.png)
 ![alt tag](logo/logo1.png)
 
 ```
